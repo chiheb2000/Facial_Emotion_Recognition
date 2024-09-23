@@ -19,7 +19,7 @@ emotion_labels = ['Angry', 'Disgust', 'Fear', 'Happy', 'Neutral', 'Sad', 'Surpri
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
 # Load an image to test
-image_path = './img/cris.jpg'  # Replace with the path to your image
+image_path = 'cris.jpg'  # Replace with the path to your image
 image = cv2.imread(image_path)
 
 # Convert the image to grayscale
