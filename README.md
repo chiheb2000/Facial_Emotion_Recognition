@@ -44,7 +44,8 @@ Once the system processes an image or video stream, it shows the detected faces 
 ## 🚀 Download My Pre-trained Model
 Since the model file exceeds 25MB, you can download **my pre-trained emotion recognition model** from Google Drive:
 
-[Download My Pre-trained Model](https://drive.google.com/your-actual-link-here](https://drive.google.com/drive/folders/16xmuAk1hIucp81m9w2W_9E9WmY5oNK0b?usp=sharing)
+[Download My Pre-trained Model](https://drive.google.com/drive/folders/16xmuAk1hIucp81m9w2W_9E9WmY5oNK0b?usp=sharing)
+
 
 ## 📧 Contact
 
