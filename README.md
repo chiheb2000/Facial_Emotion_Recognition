@@ -41,6 +41,11 @@ Once the system processes an image or video stream, it shows the detected faces 
   <img src="https://github.com/user-attachments/assets/9543f396-f240-4d7a-a37e-2e592432f441" alt="Neu" width="300" style="display:inline-block;">
 </div>
 
+## 🚀 Download My Pre-trained Model
+Since the model file exceeds 25MB, you can download **my pre-trained emotion recognition model** from Google Drive:
+
+[Download My Pre-trained Model]([https://drive.google.com/your-actual-link-here](https://drive.google.com/drive/folders/16xmuAk1hIucp81m9w2W_9E9WmY5oNK0b?usp=sharing))
+
 ## 📧 Contact
 
 If you have any questions, suggestions, or feedback regarding this project, feel free to reach out.
