@@ -3,7 +3,7 @@ import numpy as np
 from tensorflow.keras.models import model_from_json
 
 # Load the model architecture from the JSON file
-with open("./model/model_architecture.json", "r") as json_file:
+with open("model_architecture.json", "r") as json_file:
     loaded_model_json = json_file.read()
 
 # Recreate the model from the JSON architecture
