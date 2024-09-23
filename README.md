@@ -1,4 +1,4 @@
-# Emotion Recognition from Facial Images 🎭
+# Facial_Emotion_Recognition 🎭
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8ad8eb09-ff2f-45bf-a273-8da02bfc9bc7" alt="Facial" width="600">
 </div>
